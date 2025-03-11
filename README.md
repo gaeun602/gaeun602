@@ -1,4 +1,5 @@
-## 허가은 dshs 1학년
+## Hur gaeun
+dshs 1학년
 
 <!--
 **gaeun602/gaeun602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
